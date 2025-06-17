@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/ardantol/yolz
+git clone https://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@github.com/ardantol/yolz
 ```
 ```
 cd userbot && screen -S yolz
