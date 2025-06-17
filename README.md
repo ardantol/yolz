@@ -6,7 +6,7 @@ apt update && apt upgrade -y
 git clone https://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@github.com/ardantol/yolz
 ```
 ```
-cd userbot && screen -S yolz
+cd yolz && screen -S yolz
 ```
 ```
 apt install ffmpeg -y
